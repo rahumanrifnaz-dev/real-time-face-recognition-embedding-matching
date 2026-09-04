@@ -1,0 +1,2 @@
+images_processed,faces_detected,average_latency_ms,median_latency_ms,minimum_latency_ms,maximum_latency_ms,approximate_fps
+20,20,1364.7307600069325,1272.7321500133257,1186.3972999854013,2742.20909998985,0.7327452632451256
